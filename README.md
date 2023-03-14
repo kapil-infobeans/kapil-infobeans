@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kapil Yadav</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-- 💬 Ask me about **ReactJs, Redux, Laravel, Magento2, WordPress, Joomla, CodeIgniter, MySql, MongoDB, Redis**
+💬 Talk about **ReactJs, Redux, Laravel, Magento2, WordPress, Joomla, CodeIgniter, MySql, MongoDB, Redis**
 
 
 <h3 align="left">Connect with me:</h3>
